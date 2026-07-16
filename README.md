@@ -4,7 +4,6 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg5OGc1amQzMmh6dWU3OXA2M3JlMGNiOTdxaXQ0dHVlbnB1OTlwdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif" alt="Привяу" width="300" />
 
-<h1> Приветик  &nbsp;|&nbsp; Hello </h1>
 
 <h3> на чем я пишу</h3>
 <p>
@@ -12,7 +11,6 @@
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" height="32" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" height="32" alt="TypeScript" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" width="32" height="32" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="32" height="32" alt="CSS3" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="32" height="32" alt="React" />
   <img src="https://cdn.simpleicons.org/node.js/339933" width="32" height="32" alt="Node.js" />
 </p>
@@ -29,10 +27,7 @@
   </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lapka-Lapo4ka&show_icons=true&theme=radical&v=3&t=123)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lapka-Lapo4ka&layout=compact&v=3&t=123)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lapka-Lapo4ka&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 
 
 </div>
